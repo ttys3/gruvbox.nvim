@@ -17,7 +17,7 @@ return {
   light3 = hsl("#bdae93"),
   light4 = hsl("#a89984"),
   bright_red = hsl("#fb4934"),
-  bright_green = hsl("#b8bb26"),
+  bright_green = hsl("#b5bd68"),
   bright_yellow = hsl("#fabd2f"),
   bright_blue = hsl("#83a598"),
   bright_purple = hsl("#d3869b"),
